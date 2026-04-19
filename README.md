@@ -27,7 +27,7 @@ Each file includes:
 ## 📈 Progress
 
 * Day 01: Fizz Buzz (#412)
-* Day 02: 
+* Day 02: Contains Duplicate (#217)
 
 ---
 
