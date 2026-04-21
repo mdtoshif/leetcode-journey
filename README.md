@@ -29,6 +29,7 @@ Each file includes:
 * Day 01: Fizz Buzz (#412)
 * Day 02: Contains Duplicate (#217)
 * Day 03: Running Sum (#1480)
+* Day 04: Concatenation of Array (#1929)
 
 
 
