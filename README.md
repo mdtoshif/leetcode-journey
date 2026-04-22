@@ -30,6 +30,7 @@ Each file includes:
 * Day 02: Contains Duplicate (#217)
 * Day 03: Running Sum (#1480)
 * Day 04: Concatenation of Array (#1929)
+* Day 05: Maximum Nesting Depth solved (#1614)
 
 
 
