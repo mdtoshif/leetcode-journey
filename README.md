@@ -31,6 +31,7 @@ Each file includes:
 * Day 03: Running Sum (#1480)
 * Day 04: Concatenation of Array (#1929)
 * Day 05: Maximum Nesting Depth solved (#1614)
+* Day 06: Plus One (#66)
 
 
 
