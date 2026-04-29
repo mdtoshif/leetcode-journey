@@ -32,6 +32,7 @@ Each file includes:
 * Day 04: Concatenation of Array (#1929)
 * Day 05: Maximum Nesting Depth solved (#1614)
 * Day 06: Plus One (#66)
+* Day 07: Ugly Number (#263)
 
 
 
