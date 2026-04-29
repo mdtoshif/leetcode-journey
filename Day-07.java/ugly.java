@@ -1,5 +1,5 @@
 // Problem: Ugly Number (#263)
-// Date: 22-04-2026
+// Date: 29-04-2026
 
 // Approach:
 // Repeatedly divide n by 2, 3, and 5

@@ -33,7 +33,7 @@ Each file includes:
 * Day 05: Maximum Nesting Depth solved (#1614)
 * Day 06: Plus One (#66)
 * Day 07: Ugly Number (#263)
-
+* Day 08: Power of Two (#231)
 
 
 ---
