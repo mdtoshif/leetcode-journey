@@ -34,6 +34,8 @@ Each file includes:
 * Day 06: Plus One (#66)
 * Day 07: Ugly Number (#263)
 * Day 08: Power of Two (#231)
+* Day 09: Single Number (#136)
+
 
 
 ---
