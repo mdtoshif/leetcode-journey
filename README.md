@@ -36,7 +36,7 @@ Each file includes:
 * Day 08: Power of Two (#231)
 * Day 09: Single Number (#136)
 * Day 10: Missing Number (#268)
-
+* Day 11: Search Insert Position (#35)
 
 ---
 
