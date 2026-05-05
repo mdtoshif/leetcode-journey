@@ -37,7 +37,7 @@ Each file includes:
 * Day 09: Single Number (#136)
 * Day 10: Missing Number (#268)
 * Day 11: Search Insert Position (#35)
-
+* Day 12: Majority Element (#169)
 ---
 
 ## 🎯 Goals
