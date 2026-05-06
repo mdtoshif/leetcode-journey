@@ -38,6 +38,7 @@ Each file includes:
 * Day 10: Missing Number (#268)
 * Day 11: Search Insert Position (#35)
 * Day 12: Majority Element (#169)
+* Day 13: Add Digits (#258) --- Good
 ---
 
 ## 🎯 Goals
