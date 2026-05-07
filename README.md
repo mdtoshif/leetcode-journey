@@ -39,6 +39,7 @@ Each file includes:
 * Day 11: Search Insert Position (#35)
 * Day 12: Majority Element (#169)
 * Day 13: Add Digits (#258) --- Good
+* Day 14: Move Zeroes (#283)
 ---
 
 ## 🎯 Goals
