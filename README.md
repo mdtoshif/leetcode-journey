@@ -41,6 +41,7 @@ Each file includes:
 * Day 13: Add Digits (#258) --- Good
 * Day 14: Move Zeroes (#283)
 * Day 15: Sqrt(x) (#69)
+* Day 16: Valid Palindrome (#125)
 ---
 
 ## 🎯 Goals
