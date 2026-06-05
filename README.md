@@ -43,6 +43,8 @@ Each file includes:
 * Day 15: Sqrt(x) (#69)
 * Day 16: Valid Palindrome (#125)
 * Day 17: Fibonacci Number (#509)
+* Day 18: Happy Number (#202)
+* Day 19: 
 ---
 
 ## 🎯 Goals
