@@ -111,7 +111,8 @@ Each file includes:
 * Day 58: Reverse Nodes in k-Group (#25)
 * Day 59: Rotate List (#61)
 * Day 60: -> Remove Element (#27)  
-          -> 
+          -> Copy List with Random Pointer (#138)
+* Day 61: String to Integer (atoi) (#8)
 
 
 ---
