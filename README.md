@@ -116,7 +116,10 @@ Each file includes:
 * Day 62: Find All Valid Strings of Length n (#3211)
 * Day 63: Roman to Integer (#13)  
 * Day 64: Subsets (#78)
-* Day 65: 
+* Day 65: Length of Last Word (#58)
+* Day 66: 
+* Day 67:
+* Day 68: 
 
 
 ---
