@@ -118,7 +118,7 @@ Each file includes:
 * Day 64: Subsets (#78)
 * Day 65: Length of Last Word (#58)
 * Day 66: Remove Duplicates from Sorted List (#83)
-* Day 67:
+* Day 67: Combination Sum (#39)
 * Day 68: 
 
 
