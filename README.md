@@ -119,7 +119,8 @@ Each file includes:
 * Day 65: Length of Last Word (#58)
 * Day 66: Remove Duplicates from Sorted List (#83)
 * Day 67: Combination Sum (#39)
-* Day 68: 
+* Day 68: Combination Sum II (#40)
+* Day 69: 
 
 
 ---
