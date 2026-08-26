@@ -120,7 +120,8 @@ Each file includes:
 * Day 66: Remove Duplicates from Sorted List (#83)
 * Day 67: Combination Sum (#39)
 * Day 68: Combination Sum II (#40)
-* Day 69: 
+* Day 69: Letter Combinations of a Phone Number (#17)
+* Day 70:
 
 
 ---
