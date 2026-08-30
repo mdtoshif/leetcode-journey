@@ -122,7 +122,10 @@ Each file includes:
 * Day 68: Combination Sum II (#40)
 * Day 69: Letter Combinations of a Phone Number (#17)
 * Day 70: Sudoku Solver (#37)
-* Day 71: Rat in a Maze (GFG)
+* Day 71: -> Rat in a Maze (GFG)  
+          -> Word Search (#79)  
+
+
 
 
 ---
