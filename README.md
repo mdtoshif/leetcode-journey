@@ -125,6 +125,8 @@ Each file includes:
 * Day 71: -> Rat in a Maze (GFG)  
           -> Word Search (#79)  
 * Day 72: Integer to Roman (#12)
+* Day 73: -> Minimum Bit Flips to Convert Number (#2220)  
+          ->
 
 
 
