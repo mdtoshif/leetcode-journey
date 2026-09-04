@@ -129,8 +129,8 @@ Each file includes:
           -> Divide Two Integers (#29)  
           -> Counting Bits (#338)  
           -> Number of 1 Bits (#191)  
-          -> 
-
+          -> Even and Odd Bits (#2595)  
+* Day 74: 
 
 
 
