@@ -130,7 +130,8 @@ Each file includes:
           -> Counting Bits (#338)  
           -> Number of 1 Bits (#191)  
           -> Even and Odd Bits (#2595)  
-* Day 74: 
+* Day 74: -> XOR Operation in an Array (#1486)  
+          -> 
 
 
 
