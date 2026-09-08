@@ -133,7 +133,8 @@ Each file includes:
 * Day 74: -> XOR Operation in an Array (#1486)  
           -> Single Number II (#137)  
 * Day 75: -> Find Greatest Common Divisor of Array (#1979)  
-          -> 
+          -> Count Primes (#204)
+*Day 76: 
 
 
 
